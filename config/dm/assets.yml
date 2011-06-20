@@ -1,0 +1,14 @@
+js:
+
+  dmWidgetNivoGalleryPlugin:
+    
+    view:      view
+    form:      form
+    nivo:      nivo-slider/jquery.nivo.slider.pack
+
+css:
+
+  dmWidgetNivoGalleryPlugin:
+    
+    view:      view
+    form:      form
