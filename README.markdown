@@ -3,9 +3,9 @@ dmWidgetNivoGalleryPlugin is partly based on dmWdigetGalleryPlugin by Thibault D
 
 Adds a gallery widget to the front Add menu.
 It allows to build image galleries and slideshows without writing a line of code.
-The plugin is fully extensible. Only works with [Diem 5.0](http://diem-project.org/) installed.
+The plugin is fully extensible. Only works with [Diem 5.0 or greater](http://diem-project.org/) installed.
 
 Documentation
 -------------
 
-Please see the online documentation : [Diem widget gallery documentation](http://diem-project.org/plugins/dmwidgetgalleryplugin)
+Please see the online documentation : [Diem widget gallery documentation](http://diem-project.org/plugins/dmwidgetnivogalleryplugin)
