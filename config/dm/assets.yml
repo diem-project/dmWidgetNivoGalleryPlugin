@@ -4,7 +4,7 @@ js:
     
     view:      view
     form:      form
-    nivo:      nivo-slider/jquery.nivo.slider.pack
+    nivo:      nivo-slider/jquery.nivo.slider
 
 css:
 
